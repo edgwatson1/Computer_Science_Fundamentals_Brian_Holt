@@ -59,4 +59,4 @@ Very useful but is expensive in terms of memory - adds many functions to the sta
 
 Code ought to be written to be readable and maintainable, in addition for function. Recursion is often particularly readable versus many for loops, so may be a favourable option.
 
-CHECKPOINT: Trying to understand recursion example here https://frontendmasters.com/courses/computer-science/recursion-example
+CHECKPOINT: Trying to understand recursion example here https://frontendmasters.com/courses/computer-sciengitce/recursion-example
