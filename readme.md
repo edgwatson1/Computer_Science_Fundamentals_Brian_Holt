@@ -46,3 +46,17 @@ const makeTuples = (input) = {
 ```
 
 n^2 algorithms are rarely appropriate. Try to find a better way.
+
+#### O(log n)
+
+Ideal function where you code employs divide-and-conquer strategy - which most often is recursive. That is, as the input length increases, the increases in time as you increment the length of the input diminishes e.g. using merge and quick sort.
+
+## Recursion
+
+Recursion is when you define something in terms of itself.
+
+Very useful but is expensive in terms of memory - adds many functions to the stack by recursing too far down and you can cause stack overflow (usually occurs due to infinite recursion).
+
+Code ought to be written to be readable and maintainable, in addition for function. Recursion is often particularly readable versus many for loops, so may be a favourable option.
+
+CHECKPOINT: Trying to understand recursion example here https://frontendmasters.com/courses/computer-science/recursion-example
